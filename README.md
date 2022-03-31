@@ -1,7 +1,7 @@
 # Basics of Clustering Methods for Linguistic Data
 
 UC Berkeley Society for Linguistics Undergrad Students (SLUgS)
-Eric Wilbanks - March 32, 2022
+Eric Wilbanks - March 31, 2022
 
 These materials cover the basics of commonly-used clustering algorithms and how they are relevant to asking questions of linguistic data. No experience with coding or statistics is required for this workshop, but basic Python knowledge is helpful to work through the extensions.
 
