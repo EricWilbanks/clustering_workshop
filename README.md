@@ -8,15 +8,15 @@ These materials cover the basics of commonly-used clustering algorithms and how 
 
 ## What's Included?
 - Day-Of Materials:
-	- slide version: clustering_linguistic_data.pdf
+	- slide version: clustering_linguistic_data.slides.html
 	- Jupyter Notebook: clustering_linguistic_data.ipynb
 
 - Materials with Extension Questions filled in:
-	- slide version: clustering_linguistic_data_answers.pdf
+	- slide version: clustering_linguistic_data_answers.slides.html
 	- Jupyter Notebook: clustering_linguistic_data_answers.ipynb
 
 ## Using these files?
-You can follow along using the static version of the workshop materials using the pdf slides. 
+You can follow along using the static version of the workshop materials using the slides. 
 
 If you want to run the code interactively, you will need to have a working [Jupyter installation](https://jupyter.org/install).
 
